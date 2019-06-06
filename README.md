@@ -6,4 +6,4 @@ __AligerA core tools are:__
 * *primary*: infers primary homology groups using reciprocal all-versus-all BLASTN analysis.
 * *secondary*: refines primary homology groups using more stringent E-value for BLAST.
 * *phasing*: allows to phase and to assemble haplotypes with SAMtools and VarScan for each homology group.
-* *pipeline*: implements a battery of utilities designed to generate and refine multiple sequence alignments out of phased 
+* *pipeline*: implements a battery of utilities designed to generate and refine multiple sequence alignments out of phased haplotypes from each homology groups. 
