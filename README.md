@@ -1,4 +1,4 @@
-<img align="middle" src="logo2.png" hspace="20" width="600" height="250"/>
+<img align="middle" src="logo2.png" hspace="40" width="700" height="250"/>
 
 AligerA is a collection of bioinformatics tools for generating nucleotide sequence alignments tailored for species tree inference from noisy and fragmented next generation sequence data, typically obtained from short reads transcriptome sequencing at low/medium coverage depth.
 
